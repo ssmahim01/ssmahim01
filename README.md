@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning MongoDB<br>🎯 Goals: Become a Full Stack Developer, Professional Developer<br>🎲 Fun fact: MongoDB is my favorite cause i mango is my love.</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning MongoDB<br>🎯 Goals: Become a Full Stack Developer, Professional Developer<br>🎲 Fun fact: MongoDB is my favorite Database cause i love mango.</p>
 
 ###
 
