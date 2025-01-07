@@ -1,3 +1,5 @@
+<br clear="both">
+
 <img align="left" height="280" src="https://i.ibb.co.com/pXNVnDV/me-with-laptop.jpg"  />
 
 ###
@@ -10,7 +12,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h3 align="left">About me</h3>
 
 ###
 
