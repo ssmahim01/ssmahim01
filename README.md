@@ -18,23 +18,18 @@
 
 <p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning MongoDB<br>🎯 Goals: Become a Full Stack Developer, Professional Developer<br>🎲 Fun fact: MongoDB is my favorite cause i mango is my love.</p>
 
-###
-
-<h2 align="left">Social Links</h2>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/sayman-shakil-mahim-38b6a9318/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/iammz01/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/ssmahim/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</div>
+<h2 align="left">My Activities</h2>
+
+###
+
+<li align="left"><b>I am exploring about Next.JS</b></li>
+<br>
+<li align="left"><b>I am tring to finish work of some projects</b></li>
+<br>
+<li align="left"><b>I like to design UI of any websites, because it is my hobby</b></li>
 
 ###
 
@@ -60,6 +55,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="51" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="51" alt="mongodb logo"  />
+</div>
+
+###
+
+<h2 align="left">Social Links</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/sayman-shakil-mahim-38b6a9318/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/iammz01/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/ssmahim/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
 </div>
 
 ###
