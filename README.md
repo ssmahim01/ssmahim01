@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="1500" src="https://i.ibb.co.com/34NhJwx/ss-mahim-banner.png"  />
+  <img src="https://i.ibb.co.com/34NhJwx/ss-mahim-banner.png"  />
 </div>
 
 ###
