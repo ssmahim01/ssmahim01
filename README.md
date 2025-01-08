@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="240" src="https://github.com/ssmahim01/ssmahim01/blob/main/banner-ss-mahim.jpg"  />
+  <img width="100%" height="280" src="https://github.com/ssmahim01/ssmahim01/blob/main/banner-ss-mahim.jpg"  />
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning MongoDB<br>🎯 Goals: Become a Full Stack Developer, Professional Developer<br>🎲 Fun fact: MongoDB is my favorite cause i mango is my love.</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning MongoDB<br>🎯 Goals: Become a Full Stack Developer, Professional Developer<br>🎲 Fun fact: MongoDB is my favorite database, because my favorite fruit is mango.</p>
 
 
 ###
