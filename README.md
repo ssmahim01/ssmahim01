@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="340" src="https://github.com/ssmahim01/ssmahim01/blob/main/ss-mahim-banner.png"  />
+  <img width="100%" height="240" src="https://github.com/ssmahim01/ssmahim01/blob/main/ss-mahim-banner.png"  />
 </div>
 
 ###
