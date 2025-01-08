@@ -1,14 +1,14 @@
 <div align="center">
-  <img width="1200" height="300" src="https://i.ibb.co.com/Y8GPRnR/me-with-laptop1.png"  />
+  <img height="250" src="https://i.ibb.co.com/34NhJwx/ss-mahim-banner.png"  />
 </div>
 
 ###
 
-<h3 align="left">Sayman Shakil Mahim</h3>
+<h2 align="center">Sayman Shakil Mahim</h2>
 
 ###
 
-<h4 align="left">Web Developer</h4>
+<h4 align="center">Web Developer</h4>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning MongoDB<br>🎯 Goals: Become a Full Stack Developer, Professional Developer<br>🎲 Fun fact: MongoDB is my favorite Database cause i love mango.</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning MongoDB<br>🎯 Goals: Become a Full Stack Developer, Professional Developer<br>🎲 Fun fact: MongoDB is my favorite cause i mango is my love.</p>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<h2 align="left">✨ My Stats</h2>
+<h2 align="left">My Stats</h2>
 
 ###
 
