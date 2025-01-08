@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/34NhJwx/ss-mahim-banner.png"  />
+  <img width="100%" height="340" src="https://github.com/ssmahim01/ssmahim01/blob/main/ss-mahim-banner.png"  />
 </div>
 
 ###
 
-<h2 align="center">Sayman Shakil Mahim</h2>
+<h2 align="left">Sayman Shakil Mahim</h2>
 
 ###
 
-<h4 align="center">Web Developer</h4>
+<h4 align="left">Web Developer</h4>
 
 ###
 
