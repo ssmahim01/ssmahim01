@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="280" src="https://github.com/ssmahim01/ssmahim01/blob/main/github-cover.png"  />
+  <img width="100%" height="270" src="https://github.com/ssmahim01/ssmahim01/blob/main/github-cover.png"  />
 </div>
 
 ###
@@ -72,7 +72,7 @@
 
 <div align="left">
   <a href="https://github.com/ssmahim01" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" width="52" height="50" alt="gitHub logo"  />
+    <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" width="52" height="45" alt="gitHub logo"  />
   </a>
   <a href="https://www.linkedin.com/in/sayman-shakil-mahim-38b6a9318/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
