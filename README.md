@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="260" src="https://github.com/ssmahim01/ssmahim01/blob/main/github-cover.png"  />
+  <img width="100%" height="280" src="https://github.com/ssmahim01/ssmahim01/blob/main/github-cover.png"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">Web Developer</h4>
+<h3 align="left">Full Stack Web Developer</h3>
 
 ###
 
@@ -16,7 +16,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning MongoDB<br>🎯 Goals: Become a Full Stack Developer, Professional Developer<br>🎲 Fun fact: MongoDB is my favorite database, because my favorite fruit is mango.</p>
+<p align="left">I am Sayman Shakil Mahim, a passionate full stack web developer from Sylhet, Bangladesh. Web development is not just my profession but also my favorite field of work. I have completed various projects using different technologies and frameworks. Among them, I particularly enjoy building projects with React.js, Node.js, Express.js, MongoDB and Tailwind CSS.<br> 
+✨ Creating bugs since 2023<br>
+📚 I'm currently learning Next.js<br>
+🎯 Goals: Become a professional well-known developer<br>
+🎲 Fun fact: MongoDB is my favorite database, because my favorite fruit is mango.</p>
 
 
 ###
@@ -25,11 +29,11 @@
 
 ###
 
-<li align="left"><b>I am exploring about Next.JS</b></li>
-<br>
-<li align="left"><b>I am tring to finish work of some projects</b></li>
-<br>
-<li align="left"><b>I like to design UI of any websites, because it is my hobby</b></li>
+<ul align="left">
+  <li><b>Exploring Next.js and enhancing my knowledge of full-stack development.</b></li>
+  <li><b>Working on completing multiple projects to improve my skills and portfolio.</b></li>
+  <li><b>Optimizing my social and professional profiles to make them more polished and responsive.</b></li>
+</ul>
 
 ###
 
@@ -68,9 +72,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/sayman-shakil-mahim-38b6a9318/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/iammz01/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.facebook.com/ssmahim/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
