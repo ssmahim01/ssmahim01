@@ -4,11 +4,11 @@
 
 ###
 
-<h2 align="left">Sayman Shakil Mahim</h2>
+<h1 align="left">Sayman Shakil Mahim</h1>
 
 ###
 
-<h3 align="left">Full Stack Web Developer</h3>
+<h4 align="left">Full Stack Web Developer</h4>
 
 ###
 
@@ -16,7 +16,8 @@
 
 ###
 
-<p align="left">I am Sayman Shakil Mahim, a passionate full stack web developer from Sylhet, Bangladesh. Web development is not just my profession but also my favorite field of work. I have completed various projects using different technologies and frameworks. Among them, I particularly enjoy building projects with React.js, Node.js, Express.js, MongoDB and Tailwind CSS.<br> 
+<p align="left">I am Sayman Shakil Mahim, a passionate full stack web developer from Sylhet, Bangladesh. Web development is not just my profession but also my favorite field of work. I have completed various projects using different technologies and frameworks. Among them, I particularly enjoy building projects with React.js, Node.js, Express.js, MongoDB and Tailwind CSS.<br><br>
+  
 ✨ Creating bugs since 2023<br>
 📚 I'm currently learning Next.js<br>
 🎯 Goals: Become a professional well-known developer<br>
