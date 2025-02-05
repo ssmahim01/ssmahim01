@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">Full Stack Web Developer</h4>
+<h4 align="left">Web Developer</h4>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I am Sayman Shakil Mahim, a passionate full stack web developer from Sylhet, Bangladesh. Web development is not just my profession but also my favorite field of work. I have completed various projects using different technologies and frameworks. Among them, I particularly enjoy building projects with React.js, Node.js, Express.js, MongoDB and Tailwind CSS.<br><br>
+<p align="left">I am Sayman Shakil Mahim, a passionate web developer from Sylhet, Bangladesh. Web development is not just my profession but also my favorite field of work. I have completed various projects using different technologies and frameworks. Among them, I particularly enjoy building projects with React.js, Node.js, Express.js, MongoDB and Tailwind CSS.<br><br>
   
 ✨ Creating bugs since 2023<br>
 📚 I'm currently learning Next.js<br>
@@ -72,7 +72,7 @@
 
 <div align="left">
   <a href="https://github.com/ssmahim01" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" width="52" height="45" alt="gitHub logo"  />
+    <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" width="52" height="47" alt="gitHub logo"  />
   </a>
   <a href="https://www.linkedin.com/in/sayman-shakil-mahim-38b6a9318/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
