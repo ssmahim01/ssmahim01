@@ -19,7 +19,7 @@
 <p align="left">I am Sayman Shakil Mahim, a passionate web developer from Sylhet, Bangladesh. Web development is not just my profession but also my favorite field of work. I have completed various projects using different technologies and frameworks. Among them, I particularly enjoy building projects with React.js, Node.js, Express.js, MongoDB and Tailwind CSS.<br><br>
   
 ✨ Creating bugs since 2023<br>
-📚 I'm currently learning Next.js<br>
+📚 I'm currently learning Mongoose<br>
 🎯 Goals: Become a professional well-known developer<br>
 🎲 Fun fact: MongoDB is my favorite database, because my favorite fruit is mango.</p>
 
@@ -31,7 +31,7 @@
 ###
 
 <ul align="left">
-  <li><b>Exploring Next.js and enhancing my knowledge of full-stack development.</b></li>
+  <li><b>Exploring Mongoose and PostgreSQL and enhancing my knowledge of full-stack development.</b></li>
   <li><b>Working on completing multiple projects to improve my skills and portfolio.</b></li>
   <li><b>Optimizing my social and professional profiles to make them more polished and responsive.</b></li>
 </ul>
@@ -62,6 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="51" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="51" alt="mongodb logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="51" alt="typescript logo"  />
 </div>
 
 ###
