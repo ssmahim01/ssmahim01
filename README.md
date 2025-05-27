@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I am Sayman Shakil Mahim, a passionate web developer from Sylhet, Bangladesh. Web development is not just my profession but also my favorite field of work. I have completed various projects using different technologies and frameworks. Among them, I particularly enjoy building projects with React.js, Node.js, Express.js, MongoDB and Tailwind CSS.<br><br>
+<p align="left">I am Sayman Shakil Mahim, a passionate web developer from Sylhet, Bangladesh. Web development is not just my profession but also my favorite field of work. I have completed various projects using different technologies and frameworks. Among them, I particularly enjoy building projects with Next.js, React.js, TypeScript, Node.js, Express.js, MongoDB and Tailwind CSS.<br><br>
   
 ✨ Creating bugs since 2023<br>
 📚 I'm currently learning Mongoose<br>
@@ -49,6 +49,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="51" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="51" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="51" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="51" alt="react logo"  />
@@ -62,7 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="51" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="51" alt="mongodb logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="51" alt="typescript logo"  />
 </div>
 
 ###
