@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="270" src="https://github.com/ssmahim01/ssmahim01/blob/main/github-cover.png"  />
+  <img width="100%" height="270" src="https://github.com/ssmahim01/ssmahim01/blob/main/mern-stack-developer-github-banner.png"  />
 </div>
 
 ###
